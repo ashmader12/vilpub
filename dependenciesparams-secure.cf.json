@@ -1,0 +1,33 @@
+{
+    "Parameters": [
+        {
+            "ParameterKey": "NameSalt",
+            "ParameterValue": "NAMESALTPLACEHOLDER"
+        },
+        {
+            "ParameterKey": "SourcePrefixForBastion",
+            "ParameterValue": "74.192.133.241/32"
+        },
+        {
+            "ParameterKey": "TimeZone",
+            "ParameterValue": "TIMEZONEPLACEHOLDER Standard Time"
+        },
+        {
+            "ParameterKey": "BastionInstanceType",
+            "ParameterValue": "INSTANCETYPEPLACEHOLDER"
+        },
+        {
+            "ParameterKey": "KeyName",
+            "ParameterValue": "KEYPAIRPLACEHOLDER"
+        },
+        {
+            "ParameterKey": "S3Bucket",
+            "ParameterValue": "S3BUCKETPLACEHOLDER"
+        },
+        {
+            "ParameterKey": "S3Path",
+            "ParameterValue": "S3PATHPLACEHOLDER"
+        }
+    ],
+    "OnFailure": "DO_NOTHING"
+}

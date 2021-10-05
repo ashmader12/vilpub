@@ -1,0 +1,65 @@
+{
+    "Parameters": [
+        {
+            "ParameterKey": "InsertRoutes",
+            "ParameterValue": "INSERTROUTESPLACEHOLDER"
+        },
+        {
+            "ParameterKey": "SpawnVolume",
+            "ParameterValue": "yes"
+        },
+        {
+            "ParameterKey": "ExistingVolumeId",
+            "ParameterValue": "x"
+        },
+        {
+            "ParameterKey": "KeyName",
+            "ParameterValue": "KEYPLACEHOLDER"
+        },
+        {
+            "ParameterKey": "InstanceType",
+            "ParameterValue": "INSTANCETYPEPLACEHOLDER"
+        },
+        {
+            "ParameterKey": "TimeZoneCloudConfigFormat",
+            "ParameterValue": "US/Central"
+        },
+        {
+            "ParameterKey": "EnvironmentStack",
+            "ParameterValue": "ENVSTACKPLACEHOLDER"
+        },
+        {
+            "ParameterKey": "vSphereVersion",
+            "ParameterValue": "VERSIONPLACEHOLDER"
+        },
+        {
+            "ParameterKey": "LinuxAMI",
+            "ParameterValue": "AMIPLACEHOLDER"
+        },
+        {
+            "ParameterKey": "ESXHOSTCOUNT",
+            "ParameterValue": "ESXHOSTCOUNTPLACEHOLDER"
+        },
+        {
+            "ParameterKey": "MEM",
+            "ParameterValue": "MEMPLACEHOLDER"
+        },
+        {
+            "ParameterKey": "CORE",
+            "ParameterValue": "COREPLACEHOLDER"
+        },
+        {
+            "ParameterKey": "MGMTMEM",
+            "ParameterValue": "MGMTMEMPLACEHOLDER"
+        },
+        {
+            "ParameterKey": "MGMTCORE",
+            "ParameterValue": "MGMTCOREPLACEHOLDER"
+        },
+        {
+            "ParameterKey": "ENVTYPE",
+            "ParameterValue": "ENVTYPEPLACEHOLDER"
+        }
+    ],
+    "OnFailure": "DO_NOTHING"
+}
